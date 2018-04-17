@@ -53,6 +53,6 @@ if __name__ == "__main__":
     #my_gui = TheGUI(root)
     #root.mainloop()
 
-    all_files = os.listdir('C:/Users/maxwem1/cobragit/ESM_ITPA_TOP/ESM_ITPA/maxxwem1_sandbox/machine_learning')
+    all_files = os.listdir('')
     for i in all_files:
         print("FILE EXT: ", i.split('.')[1])
